@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "440826557989",
+    "project_id": "frank-practices",
+    "storage_bucket": "frank-practices.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440826557989:android:72572b34ca95399b62f1cc",
+        "android_client_info": {
+          "package_name": "com.example.moviesandseriestwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440826557989-ostsh1i45g4k9f1lu8iq949fpjbvb8t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moviesandseriestwo",
+            "certificate_hash": "30e12eaa019c1f29abc00a4af8d6d563c58fcaee"
+          }
+        },
+        {
+          "client_id": "440826557989-2i51lrq8klnbr72q7ecaup42rnrpvqmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVZ9-pUf5GRB028mOaczAhx8Dz5e9xuHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440826557989-2i51lrq8klnbr72q7ecaup42rnrpvqmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
